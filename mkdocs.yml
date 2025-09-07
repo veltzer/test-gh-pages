@@ -1,1 +1,3 @@
 site_name: Mark Veltzer's website
+docs_dir: src
+site_dir: docs
